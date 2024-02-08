@@ -1,0 +1,33 @@
+.footter{
+    background-color: black;
+}
+
+.fMenu{
+    list-style: none;
+    display: flex;
+    color: rgb(184, 184, 184);
+    justify-content: center;
+    padding: 20px;
+}
+
+.links{
+    margin-left: 20px;
+    color: rgb(173, 173, 173);
+}
+
+.copyright{
+    text-align: center;
+    color: rgb(156, 156, 156);
+    padding: 20px 0;
+}
+
+.social{
+    text-align: center;
+}
+
+.sIcons{
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 20px;
+}

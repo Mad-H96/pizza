@@ -1,0 +1,15 @@
+.mainimg{
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+.contact{
+    margin-top: 25%;
+
+}
+
+.send{
+    width: 150px;
+}

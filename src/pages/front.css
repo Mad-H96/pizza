@@ -1,0 +1,32 @@
+.mainPizza{
+  background-position: center;
+  background-repeat: no-repeat; 
+  object-fit: cover;
+  height: 1000px;
+  width: 100%; 
+
+}
+
+.pText{
+    position: absolute;
+    margin-top: -700px;
+    margin-left: 5%;
+    position: fixed;
+    padding: 20px;
+    background: rgba(57, 57, 57, 0.5);
+    border-radius: 10px;
+    width: 450px;
+
+}
+
+.hText{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    border-radius: 0.2 solid black;
+}
+
+.sText{
+    color: rgb(230, 230, 230);
+    font-weight: 300;
+}
+
